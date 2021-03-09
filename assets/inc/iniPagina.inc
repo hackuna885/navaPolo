@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="css/all.css">
 	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2"></script>
 	<title>Nava Polo Consulting Servicios de consultoría empresarial</title>
-	<meta name="description" content="Consultoría, Empresarial, Cemefi, CEMEFI, ESR, Servicios de consultoría empresarial, empresarial y calidad" />
+	<meta name="description" content="nava, polo, navapolo, navapolo.com, Consultoría, Empresarial, Cemefi, CEMEFI, ESR, Servicios de consultoría empresarial, empresarial y calidad" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139427578-1"></script>
 	<script>

@@ -9,7 +9,7 @@ date_default_timezone_set('America/Mexico_City');
 if(isset($_POST['txtCorreo'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "info@corsec.com.mx";
+    $email_to = "contacto@navapolo.com";
     $email_subject = "Tienes un mensaje de la pagina de contacto";
 
     function died($error) {
@@ -50,7 +50,7 @@ if(isset($_POST['txtCorreo'])) {
   if(strlen($error_message) > 0) {
     died($error_message);
   }
-    $email_message = "Info. solicitada de www.corsec.com.mx:\n\n";
+    $email_message = "Info. solicitada de www.navapolo.com:\n\n";
 
     function clean_string($string) {
       $bad = array("content-type","bcc:","to:","cc:","href");
@@ -68,11 +68,11 @@ $headers = 'From: '.$email_from."\r\n".
 @mail($email_to, $email_subject, $email_message, $headers);
 
 echo '<script> alert("¡Gracias, pronto estaremos en contacto!");</script>';
-echo "<meta http-equiv='refresh' content='0;url=http://www.corsec.com.mx'>";
+echo "<meta http-equiv='refresh' content='0;url=http://www.navapolo.com'>";
 
 }else{
 	echo "<script> alert('No puedes ver esta pagina!');</script>";
-	echo "<script> window.location='http://www.corsec.com.mx';</script>";
+	echo "<script> window.location='http://www.navapolo.com';</script>";
 }
 
  ?>

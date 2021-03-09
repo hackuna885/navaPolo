@@ -43,12 +43,12 @@
 										<div class="col-2 text-right">
 											<i class="fab fa-facebook-square icono"></i>
 										</div>
-										<div class="col-10 p-0"><a class="text-muted" href="https://www.facebook.com/navapoloconsulting/">facebook.com/navapoloconsulting</a></div>
+										<div class="col-10 p-0"><a class="text-muted" href="https://www.facebook.com/navapolo/">facebook.com/navapolo</a></div>
 										<div class="col-12"> <div class="col-md-7"><hr></div></div>
 										<div class="col-2 text-right">
 											<i class="fab fa-twitter-square icono"></i>
 										</div>
-										<div class="col-10 p-0"><a class="text-muted" href="https://twitter.com/navapoloconsulting">twitter.com/navapoloconsulting</a></div>
+										<div class="col-10 p-0"><a class="text-muted" href="https://twitter.com/navapolo">twitter.com/navapolo</a></div>
 										<div class="col-12"> <div class="col-md-7"><hr></div></div>
 										<div class="col-2 text-right">
 											<i class="fas fa-phone-square icono"></i>
@@ -65,7 +65,7 @@
 
 						<div class="row footerTexto">
 							<div class="col-md-12 text-muted align-middle my-3">
-										<p class="text-center">© navapoloconsulting. Todos los derechos reservados. | Diseñado por: <a href="http://navapoloconsulting.com.mx/" class="text-muted">navapoloconsulting.com.mx</a></p>
+										<p class="text-center">© navapolo. Todos los derechos reservados. | Diseñado por: <a href="http://navapolo.com/" class="text-muted">navapolo.com</a></p>
 							</div>
 						</div>
 				
