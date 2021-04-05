@@ -19,23 +19,23 @@ a:link {
   text-decoration: none; }
 
 .textoAzul {
-  color: #3ed9c4; }
+  color: #977858; }
 
 .fondoOtroGris {
   background-color: #121217; }
 
 .iconNone, a:hover {
-  color: #b7c3ca !important; }
+  color: #896c4f !important; }
 
 .fondoNSlide {
-  background-color: rgba(52, 105, 168, 0.5);
+  background-color: rgba(137, 108, 79, 0.5);
   padding: 10px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
   cursor: pointer; }
 
 .fondoNSlideUno {
-  background-color: rgba(52, 105, 168, 0.5);
+  background-color: rgba(137, 108, 79, 0.5);
   padding: 10px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -49,7 +49,7 @@ a:link {
   transition: 0.3s; }
 
 .fondoNSlideUno:hover {
-  background-color: rgba(52, 105, 168, 0.5); }
+  background-color: rgba(94, 73, 53, 0.5); }
 
 .fondoColor {
   background-color: rgba(255, 255, 255, 0.5); }
@@ -111,24 +111,24 @@ p {
   font-size: 16px; }
 
 .btn-primary {
-  border: #1D4E8A;
-  background-color: #1D4E8A; }
+  border: #BC9B75;
+  background-color: #BC9B75; }
 
 .btn-primary:hover {
-  border: #0F3159;
-  background-color: #0F3159; }
+  border: #977858;
+  background-color: #977858; }
 
 .fondoVerde {
-  background-color: #1D4E8A; }
+  background-color: #BC9B75; }
 
 .fondoGris {
   background-color: #F5F5F5; }
 
 .fondoAzul {
-  background-color: #1D4E8A; }
+  background-color: #977858; }
 
 .textoVerde {
-  color: #1D4E8A; }
+  color: #BC9B75; }
 
 .textoBlanco {
   color: #FFF;
@@ -138,21 +138,21 @@ p {
   transition: 0.3s; }
 
 .textoVerde:hover {
-  color: #0F3159; }
+  color: #977858; }
 
 .navIcon a:link, i {
   text-decoration: none;
-  color: #1D4E8A; }
+  color: #977858; }
 
 .icono {
   font-size: 30px;
-  color: #1D4E8A; }
+  color: #BC9B75; }
 
 .anima {
   transition: 0.3s; }
 
 .anima:hover {
-  color: #1D4E8A; }
+  color: #BC9B75; }
 
 .eleSelect {
   transition: 0.2s; }
@@ -160,13 +160,13 @@ p {
 .eleSelect:hover {
   -webkit-border-radius: 3px;
   border-radius: 3px;
-  background-color: #1D4E8A; }
+  background-color: #BC9B75; }
 
 .animaFondo {
   transition: 0.3s; }
 
 .animaFondo:hover {
-  background-color: #d8edfa; }
+  background-color: #fceddf; }
 
 .iconFat {
   font-size: 100px; }
@@ -175,13 +175,13 @@ p {
   background-color: #F5F5F5; }
 
 .textoVerde {
-  color: #1D4E8A; }
+  color: #BC9B75; }
 
 .vl {
-  border-left: 2px solid #1D4E8A; }
+  border-left: 2px solid #BC9B75; }
 
 .tl {
-  border-top: 2px solid #1D4E8A; }
+  border-top: 2px solid #BC9B75; }
 
 .subTitulo {
   font-size: 40px; }
@@ -198,7 +198,7 @@ p {
   background-size: 128px 128px,	100% 100%; }
 
 .parallax {
-  background-image: url("../img/webb.png");
+  background-image: url("../img/spiration-light.png");
   background-attachment: fixed;
   background-position: center;
   background-size: 400px 400px,	100% 100%; }
@@ -277,7 +277,7 @@ p {
   background-size: cover; }
 
 .fondoOptUno {
-  background: url(../img/back_optimiza.jpg) no-repeat center center fixed;
+  background: url(../img/optEmpreImgDos.jpg) no-repeat center center fixed;
   background-size: cover; }
 
 .fondoOpt {

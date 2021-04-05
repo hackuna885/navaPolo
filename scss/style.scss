@@ -27,6 +27,9 @@ $azulDos: #2fa393;
 $gris: #F5F5F5;
 $pieCuadro: #EDEEF0;
 $otroGris: #121217;
+$cafeUno: #BC9B75;
+$cafeDos: #BC9B75;
+$cafeTres: #977858;
 
 /*.backVerde{
 	background-color: rgba(163, 215, 131, 0.1);
@@ -38,16 +41,16 @@ a:link{
 }
 
 .textoAzul{
-	color: $azul;
+	color: $cafeTres;
 }
 .fondoOtroGris{
 	background-color: $otroGris;
 }
 .iconNone, a:hover{
-	color: #FFF !important;
+	color: #896c4f !important;
 }
 .fondoNSlide{
-	background-color: rgba(62, 217, 192, 0.5);
+	background-color: rgba(137, 108, 79, 0.5);
 	padding: 10px;
 	-webkit-border-radius: 3px;
 	        border-radius: 3px;
@@ -55,7 +58,7 @@ a:link{
 }
 
 .fondoNSlideUno{
-	background-color: rgba(62, 217, 192, 0.5);
+	background-color: rgba(137, 108, 79, 0.5);
 	padding: 10px;
 	-webkit-border-radius: 3px;
 	        border-radius: 3px;
@@ -69,7 +72,7 @@ a:link{
 	        transition: 0.3s;
 }
 .fondoNSlideUno:hover{
-	background-color: rgba(31, 109, 98, 0.5);
+	background-color: rgba(94, 73, 53, 0.5);
 }
 
 
@@ -160,16 +163,16 @@ p{
 }
 
 .btn-primary{
-	border: $verde;
-	background-color: $verde;
+	border: $cafeUno;
+	background-color: $cafeUno;
 }
 .btn-primary:hover{
-	border: $verdeDos;
-	background-color: $verdeDos;
+	border: $cafeTres;
+	background-color: $cafeTres;
 }
 
 .fondoVerde{
-	background-color: $verde;
+	background-color: $cafeUno;
 }
 
 .fondoGris{
@@ -177,11 +180,11 @@ p{
 }
 
 .fondoAzul{
-	background-color: $azul;
+	background-color: $cafeTres;
 }
 
 .textoVerde{
-	color: $verde;
+	color: $cafeUno;
 }
 
 .textoBlanco{
@@ -193,25 +196,25 @@ p{
 	transition: 0.3s;
 }
 .textoVerde:hover{
-	color: $verdeDos;
+	color: $cafeTres;
 }
 
 .navIcon a:link, i{
 	text-decoration: none;
-	color: $azul;
+	color: $cafeTres;
 }
 
 
 .icono{
 	font-size: 30px;
-	color: $verde;
+	color: $cafeUno;
 }
 
 .anima{
 	transition: 0.3s;
 }
 .anima:hover{
-	color: $verde;
+	color: $cafeUno;
 }
 
 .eleSelect{
@@ -221,13 +224,13 @@ p{
 .eleSelect:hover{
 	-webkit-border-radius: 3px;
 	        border-radius: 3px;
-	background-color: $verde;
+	background-color: $cafeUno;
 }
 .animaFondo{
 	transition: 0.3s;
 }
 .animaFondo:hover{
-	background-color: #F0FFE4;
+	background-color: #fceddf;
 }
 
 .iconFat{
@@ -240,16 +243,16 @@ p{
 }
 
 .textoVerde{
-	color: $verde;
+	color: $cafeUno;
 }
 
 .vl{
-	border-left: 2px solid $verde;
+	border-left: 2px solid $cafeUno;
 	
 }
 
 .tl{
-	border-top: 2px solid $verde;
+	border-top: 2px solid $cafeUno;
 	
 }
 

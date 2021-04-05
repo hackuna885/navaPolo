@@ -28,7 +28,7 @@ include("assets/inc/nav.inc");
 											<div class="cajaImg2 d-flex justify-content-center align-items-center">				
 											<img class="img-fluid imgISOD2" src="img/iso2/9001_2015.svg" alt="Logo ISO 9001:2015 Calidad">
 											</div>
-											<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Calidad</h4>
+											<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Calidad</h4>
 											</a>
 										</div>
 										<div class="col-4">
@@ -36,7 +36,7 @@ include("assets/inc/nav.inc");
 											<div class="cajaImg2 d-flex justify-content-center align-items-center">
 											<img class="img-fluid imgISO2" src="img/iso2/31000.svg" alt="Logo ISO 31000 Riesgos">
 											</div>
-											<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Riesgos</h4>
+											<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Riesgos</h4>
 											</a>
 										</div>
 										<div class="col-4">
@@ -44,7 +44,7 @@ include("assets/inc/nav.inc");
 											<div class="cajaImg2 d-flex justify-content-center align-items-center">
 											<img class="img-fluid imgISO2" src="img/iso2/14001_2015.svg" alt="Logo ISO 14001:2015 Medio Ambiente">
 											</div>
-											<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Medio Ambiente</h4>
+											<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Medio Ambiente</h4>
 											</a>
 										</div>
 									</div>
@@ -59,7 +59,7 @@ include("assets/inc/nav.inc");
 											<div class="cajaImg2 d-flex justify-content-center align-items-center">
 											<img class="img-fluid imgISOD2" src="img/iso2/50001.svg" alt="Logo ISO 50001 Energía">
 											</div>
-											<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Energía</h4>
+											<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Energía</h4>
 											</a>
 										</div>
 										<div class="col-4">
@@ -67,7 +67,7 @@ include("assets/inc/nav.inc");
 											<div class="cajaImg2 d-flex justify-content-center align-items-center">				
 											<img class="img-fluid imgISOD2" src="img/iso2/9001_2015.svg" alt="Logo ISO 9001:2015 Calidad">
 											</div>
-											<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Calidad</h4>
+											<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Calidad</h4>
 											</a>
 										</div>
 										<div class="col-4">
@@ -75,7 +75,7 @@ include("assets/inc/nav.inc");
 											<div class="cajaImg2 d-flex justify-content-center align-items-center">
 											<img class="img-fluid imgISO2" src="img/iso2/45001_2016.svg" alt="Logo ISO 45001:2016 Seguridad Laboral">
 											</div>
-											<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Seguridad Laboral</h4>
+											<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Seguridad Laboral</h4>
 											</a>
 										</div>
 									</div>
@@ -103,7 +103,7 @@ include("assets/inc/nav.inc");
 										<div class="cajaImg2 d-flex justify-content-center align-items-center">				
 										<img class="img-fluid imgISOD2" src="img/iso2/9001_2015.svg" alt="Logo ISO 9001:2015 Calidad">
 										</div>
-										<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Calidad</h4>
+										<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Calidad</h4>
 									</div>
 
 									<div class="col-6 col-lg-2 text-center">
@@ -111,35 +111,35 @@ include("assets/inc/nav.inc");
 										<div class="cajaImg2 d-flex justify-content-center align-items-center">
 										<img class="img-fluid imgISOD2" src="img/iso2/22000.svg" alt="Logo ISO 22000 Seguridad Alimentari">						
 										</div>
-										<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Seguridad Alimentaria</h4>
+										<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Seguridad Alimentaria</h4>
 									</div>
 
 									<div class="col-6 col-lg-2 text-center">
 										<div class="cajaImg2 d-flex justify-content-center align-items-center">
 										<img class="img-fluid imgISO2" src="img/iso2/14001_2015.svg" alt="Logo ISO 14001:2015 Medio Ambiente">
 										</div>
-										<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Medio Ambiente</h4>
+										<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Medio Ambiente</h4>
 									</div>
 
 									<div class="col-6 col-lg-2 text-center">						
 										<div class="cajaImg2 d-flex justify-content-center align-items-center">
 										<img class="img-fluid imgISOD2" src="img/iso2/50001.svg" alt="Logo ISO 50001 Energía">
 										</div>
-										<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Energía</h4>
+										<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Energía</h4>
 									</div>
 
 									<div class="col-6 col-lg-2 text-center">						
 										<div class="cajaImg2 d-flex justify-content-center align-items-center">
 										<img class="img-fluid imgISO2" src="img/iso2/31000.svg" alt="Logo ISO 31000 Riesgos">
 										</div>
-										<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Riesgos</h4>
+										<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Riesgos</h4>
 									</div>
 
 									<div class="col-6 col-lg-2 text-center">
 										<div class="cajaImg2 d-flex justify-content-center align-items-center">
 										<img class="img-fluid imgISO2" src="img/iso2/45001_2016.svg" alt="Logo ISO 45001:2016 Seguridad Laboral">
 										</div>
-										<h4 class="lead2 d-flex justify-content-center align-items-center" style="height: 60px;">Seguridad Laboral</h4>
+										<h4 class="lead2 d-flex justify-content-center align-items-center" style="color: #FFF; height: 60px;">Seguridad Laboral</h4>
 									</div>
 								</div>
 							</div>
